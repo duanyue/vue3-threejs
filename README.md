@@ -1,4 +1,4 @@
-# Vite 2.x + Vue 3.x + TypeScript Starter
+# Vite 2.x + Vue 3.x + TypeScript
 
 ## 技术栈
 
@@ -17,8 +17,6 @@
 
 ```sh
 npm install
-# or
-yarn add
 ```
 
 ### 启动项目
