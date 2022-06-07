@@ -1,4 +1,4 @@
-# Vite 2.x + Vue 3.x + TypeScript
+# Vite 2.x + Vue 3.x + TypeScript + Three.js
 
 ## 技术栈
 
@@ -12,6 +12,7 @@
 - HTTP 工具：[Axios](https://axios-http.com/)
 - 代码规范(待完善)：[EditorConfig](http://editorconfig.org) + [Prettier](https://prettier.io/) + [ESLint](https://eslint.org/) + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#translation)
 - 单元测试(待完善)：[vue-test-utils](https://next.vue-test-utils.vuejs.org/) + [jest](https://jestjs.io/) + [vue-jest](https://github.com/vuejs/vue-jest) + [ts-jest](https://kulshekhar.github.io/ts-jest/)
+- 3D图形渲染:[Three.js 0.141.0](https://threejs.org/)
 
 ### 安装依赖
 
